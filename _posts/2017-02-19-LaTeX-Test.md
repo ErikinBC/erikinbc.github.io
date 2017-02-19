@@ -15,8 +15,9 @@ $$
 I want to cite $\ref{eq:eq1}$ or $\eqref{eq:eq1}$.
 
 $$
-  \begin{align}
-    |\psi_1\rangle &= a|0\rangle + b|1\rangle \\\\
-    |\psi_2\rangle &= c|0\rangle + d|1\rangle
-  \end{align}
+\begin{aligned}
+f(t) &= p \lambda t^{p-1} \exp\{-\lambda t^p \} \\
+S(t) &= \exp\{-\lambda t^p \}
+\end{aligned}
 $$
+
