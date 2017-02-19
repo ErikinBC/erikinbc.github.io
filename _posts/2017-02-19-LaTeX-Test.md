@@ -9,6 +9,7 @@ $$
 \begin{align}
 a &= b + c \label{eq:eq1} \\
 d &= e + f \label{eq:eq2}
+g &= h + i \nonumber
 \end{align}
 $$
 
@@ -21,3 +22,10 @@ S(t) &= \exp\{-\lambda t^p \}
 \end{aligned}
 $$
 
+How does bold math work: $\bm{\beta}$, $\boldsymbol\beta$, $\pmb{\beta}$.
+
+$$
+\begin{align}
+\textbf{X}  &= 
+\end{align}
+$$
