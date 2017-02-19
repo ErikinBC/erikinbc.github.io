@@ -22,10 +22,18 @@ S(t) &= \exp\{-\lambda t^p \}
 \end{aligned}
 $$
 
-How does bold math work: $\bm{\beta}$, $\boldsymbol\beta$, $\pmb{\beta}$.
+How does bold math work: $\boldsymbol\beta$, $\pmb{\beta}$.
+
+
+Can we define now commands?
+
+$$
+\newcommand{\bbeta}{\pmb{\beta}}
+$$
 
 $$
 \begin{align}
-\textbf{X}  &= 
+\textbf{X}  &=  \bbeta
 \end{align}
 $$
+
